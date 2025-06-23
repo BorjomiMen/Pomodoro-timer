@@ -28,9 +28,10 @@ For End Users (No Python Required)
 13) 📁 Distribute the .exe file from the dist/ folder
 # 📁 File Structure
 pomodoro-timer/
-├── pomodoro_timer.py      # Main application code
-├── Atom.mp3               # Alert sound (replace with your own)
-└── README.md              # This file
+1) pomodoro_timer.py      # Main application code
+2) Atom.mp3               # Sound
+3) Pomodorka.exe          # Exe-file for non-programmers
+4) README.md              # This file
 # 💡 Tips
 1) 🔁 Different sounds can be added for work/break transitions
 2) 📦 Share the app with friends without requiring Python installation
